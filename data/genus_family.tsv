@@ -1,0 +1,68 @@
+short_name	long_name	genus	family
+af	Afrikaans	Germanic	Indo-European
+ara	Arabic	Semitic	Afro-Asiatic
+be	Belarusian	Balto-Slavic	Indo-European
+bg	Bulgarian	Balto-Slavic	Indo-European
+ca	Catalan	Italic	Indo-European
+cop	Coptic	Egyptian	Afro-Asiatic
+cs	Czech	Balto-Slavic	Indo-European
+cu	Old Church Slavonic	Balto-Slavic	Indo-European
+cy	Welsh	Celtic	Indo-European
+da	Danish	Germanic	Indo-European
+de	German	Germanic	Indo-European
+el	Greek	Graeco-Phrygian	Indo-European
+en	English	Germanic	Indo-European
+es	Spanish	Italic	Indo-European
+et	Estonian	Finnic	Uralic
+eu	Basque	Basque	Basque
+fa	Persian	Indo-Iranian	Indo-European
+fi	Finnish	Finnic	Uralic
+fo	Faroese	Germanic	Indo-European
+fr	French	Italic	Indo-European
+fro	Old French	Italic	Indo-European
+ga	Irish	Celtic	Indo-European
+gd	Scottish Gaelic	Celtic	Indo-European
+gl	Galician	Italic	Indo-European
+got	Gothic	Germanic	Indo-European
+grc	Ancient Greek	Graeco-Phrygian	Indo-European
+he	Hebrew	Semitic	Afro-Asiatic
+hi	Hindi	Indo-Iranian	Indo-European
+hr	Croatian	Balto-Slavic	Indo-European
+hu	Hungarian	Hungarian	Uralic
+hy	Armenian	Armenic	Indo-European
+hyw	Western Armenian	Armenic	Indo-European
+id	Indonesian	Malayo-Polynesian	Austronesian
+is	Icelandic	Germanic	Indo-European
+it	Italian	Italic	Indo-European
+ja	Japanese	Japanesic	Japonic
+ko	Korean	Korean	Koreanic
+la	Latin	Italic	Indo-European
+lt	Lithuanian	Balto-Slavic	Indo-European
+lv	Latvian	Balto-Slavic	Indo-European
+lzh	Classical Chinese	Sinitic	Sino-Tibetan
+mr	Marathi	Indo-Iranian	Indo-European
+mt	Maltese	Semitic	Afro-Asiatic
+nl	Dutch	Germanic	Indo-European
+no	Norwegian	Germanic	Indo-European
+orv	Old East Slavic	Balto-Slavic	Indo-European
+pcm	Naija	Germanic	Indo-European
+pl	Polish	Balto-Slavic	Indo-European
+pt	Portuguese	Italic	Indo-European
+qhe	Hindi English	Germanic	Indo-European
+ro	Romanian	Italic	Indo-European
+ru	Russian	Balto-Slavic	Indo-European
+sk	Slovak	Balto-Slavic	Indo-European
+sl	Slovenian	Balto-Slavic	Indo-European
+sr	Serbian	Balto-Slavic	Indo-European
+sv	Swedish	Germanic	Indo-European
+swl	Swedish Sign Language	Swedish Sign	Sign Language
+ta	Tamil	South Dravidian	Dravidian
+te	Telugu	South Dravidian	Dravidian
+tr	Turkish	Common Turkic	Turkic
+ug	Uyghur	Common Turkic	Turkic
+uk	Ukrainian	Balto-Slavic	Indo-European
+ur	Urdu	Indo-Iranian	Indo-European
+vi	Vietnamese	Vietic	Austroasiatic
+wo	Wolof	North-Central Atlantic	Atlantic-Congo
+zh	Chinese	Sinitic	Sino-Tibetan
+de+tr	Turkish German	Germanic	Indo-European
